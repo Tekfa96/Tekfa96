@@ -1,7 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aymen+Ben Tekfa!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+I'm+Aymen+Ben+Tekfa)](https://git.io/typing-svg)/>
 </h1>
 
 <h3 align="center">A passionate developer from Tunisia </h3>
@@ -9,7 +7,8 @@
 <br/>
 
 <div align="center">
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+    🌱 I’m currently learning **AI, Python, AWS**
 
 💬 Ask me about **Embedded systems, React, Node.js... or anything [here](https://github.com/tekfa96/tekfa96/issues)**
 
