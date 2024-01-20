@@ -5,8 +5,8 @@
 <br/>
 
 <div align="center">
-🌱 I’m currently learning **AI, Python, AWS**</br>
-💬 Ask me about **Embedded systems, React, Node.js... or anything [here](https://github.com/tekfa96/tekfa96/issues)**
+🌱 I’m currently learning **AI,Embedded systems, AWS**</br>
+💬 Ask me about **Embedded systems, React, Node.js... or anything [here].(https://github.com/tekfa96/tekfa96/issues).**
  </div>
  
 <div align="center"> 
