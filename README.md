@@ -2,11 +2,10 @@
 <a align="center"href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=200&random=false&width=435&lines=Hi+there!%F0%9F%91%8B;I'm+Aymen+Ben+Tekfa!" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">A passionate developer from Tunisia </h3>
-
 <br/>
 
 <div align="center">
-🌱 I’m currently learning **AI, Python, AWS**
+🌱 I’m currently learning **AI, Python, AWS**</br>
 💬 Ask me about **Embedded systems, React, Node.js... or anything [here](https://github.com/tekfa96/tekfa96/issues)**
  </div>
  
