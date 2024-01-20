@@ -6,7 +6,7 @@
 
 <div align="center">
 🌱 I’m currently learning **AI,Embedded systems, AWS**</br>
-💬 Ask me about **Embedded systems, React, Node.js... or anything [here].(https://github.com/tekfa96/tekfa96/issues).**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
  </div>
  
 <div align="center"> 
