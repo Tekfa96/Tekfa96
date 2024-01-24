@@ -6,7 +6,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **IA, Embedded systems, AWS**
+ 🌱 I’m currently learning **IA, Embedded systems, Cloud Computing**
 
 💬 Ask me about **Node.js, React, SQL... or anything [here](https://github.com/tekfa96/tekfa96/issues)**
 
