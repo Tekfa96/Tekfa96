@@ -6,9 +6,9 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **IA, Embedded systems, Cloud Computing**
+ 🌱 I’m currently learning **Embedded AI**
 
-💬 Ask me about **Node.js, React, SQL... or anything [here](https://github.com/tekfa96/tekfa96/issues)**
+💬 Ask me about **web developement or AI project [here](https://github.com/tekfa96/tekfa96/issues)**
 
 
  </div>
