@@ -1,7 +1,7 @@
 <h1 align="center">
 <a align="center"href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=200&random=false&width=435&lines=Hi+there!%F0%9F%91%8B;I'm+Aymen+Ben+Tekfa!" alt="Typing SVG" /></a>
 </h1>
-<h3 align="center">Hi, I'm Aymen — an AI & IoT specialist with a Master’s degree and solid experience in embedded systems, cloud integration, and full-stack development. </h3>
+<h3 align="center">I'm An AI & IoT specialist with a Master’s degree and solid experience in embedded systems, cloud integration, and full-stack development. </h3>
 <br/>
 
 <div align="center">
